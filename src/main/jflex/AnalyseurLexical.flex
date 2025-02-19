@@ -1,4 +1,4 @@
-package fr.harisclement;
+package fr.adziga;
 import java_cup.runtime.Symbol;
 
 %%
